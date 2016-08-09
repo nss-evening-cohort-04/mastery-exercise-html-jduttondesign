@@ -1,0 +1,53 @@
+body {
+background-color: white;
+font-family: arial;
+}
+
+.mydiv {
+    width: 100%;
+}
+
+h1 {
+	border: 1px solid lightblue;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.First {
+	width: 30%;
+	border: solid #d9e6f2;
+	float: left;
+	margin: 0 20px auto;
+}
+
+.Second {
+	width: 30%;
+	border: solid #d9e6f2;
+	float: left;
+	margin: 0 20px auto;
+}
+
+.Third {
+	width: 30%;
+	border: solid #d9e6f2;
+	float: right;
+	margin: 0 auto;
+}
+
+.Fourth {
+	width: 30%;
+	border: solid #d9e6f2;
+	float: left;
+	margin: 0 0 0 10%;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.instock {
+	background-color: grey;
+	color: yellow;
+}
+
