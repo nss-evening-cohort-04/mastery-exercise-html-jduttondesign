@@ -4,8 +4,10 @@ font-family: arial;
 }
 
 .img {
-	background-position: center;
-	padding-left: 50px;
+	/*background-position: center;*/
+	width: 100%;
+	text-align: center;
+	/*padding-left: 50px;*/
 }
 
 h1 {
